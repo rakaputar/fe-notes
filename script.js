@@ -1,4 +1,4 @@
-const apiUrl = 'https://be-617681911777.us-central1.run.app/';
+const apiUrl = "https://be-617681911777.us-central1.run.app/";
 
 document.getElementById('noteForm').addEventListener('submit', async (e) => {
     e.preventDefault();
